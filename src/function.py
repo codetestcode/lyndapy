@@ -14,3 +14,10 @@ def isprime(n):
 
 for n in range(1,20):
 	isprime(n)
+
+
+def func():
+	for i in range(10):
+		print(i)
+
+func()
